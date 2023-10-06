@@ -21,3 +21,9 @@ prompttune         | nouns                     |   Transmit nouns first, in cont
  .                  |      heads_random         |    Transmit heads first, in random-sequence |
 .                   |      heads_skd            |       "SKD" Finetune Alice and transmit heads first, in context-sequence |
       
+# How to
+First download code repositories 
+* detectron2
+- Y. Wu, A. Kirillov, F. Massa, W.-Y. Lo, and R. Girshick, “Detectron2,” https://github.com/facebookresearch/detectron2, 20
+- https://github.com/facebookresearch/detectron2.git
+* 

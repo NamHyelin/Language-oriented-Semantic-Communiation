@@ -2,13 +2,6 @@
 Code for "Language-oriented Communication with Semantic Coding and Knowledge Distillation for Text-to-Image Generation, Hyelin Nam, Jihong Park, Jinho Choi, Mehdi Bennis, Seong-Lyun Kim," submitted to ICASSP 2024.
 
 # Settings for methods and importance 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 | 
-
-
 
 | methods        | imporance        | Cool                                                                                        | 
 |:-------------- |:---------------:|:--------------------------------------------------------------------------------------------|

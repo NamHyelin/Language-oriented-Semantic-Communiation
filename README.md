@@ -9,7 +9,7 @@ Code for "Language-oriented Communication with Semantic Coding and Knowledge Dis
 | zebra stripes | are neat      |    $1 |
 
 
-| methods          | imporance                 |                                                                                                                                                  | 
+| methods          | imporance                 |     hi                                                                                                                                          | 
 :----------------   |:------------------------- :|:--------------------------------------------------------------------------------------------------------------------------------------------------|
 partBob            |                           |        "most_attentive" Using language model from part of Bob's model to choose most influential or attentive word to transmit |
 partBob_clipTX     |                           |      When Bob has CLIP language base. Same as above |

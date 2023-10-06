@@ -2,13 +2,10 @@
 Code for "Language-oriented Communication with Semantic Coding and Knowledge Distillation for Text-to-Image Generation, Hyelin Nam, Jihong Park, Jinho Choi, Mehdi Bennis, Seong-Lyun Kim," submitted to ICASSP 2024.
 
 # Settings for methods and importance
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
 
 methods            |       importance          |     
--------------------|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+----------------   |-------------------------  |-----------------------------------------------------------------------------------------------------------------------------------------------------|
 partBob            |                                   "most_attentive" Using language model from part of Bob's model to choose most influential or attentive word to transmit
 partBob_clipTX     |                                 When Bob has CLIP language base. Same as above
 allBob             |                                    "lowest LPIPS" Simulate with Bob's model and transmit the word with lowest LPIPS with the reference (desired) image

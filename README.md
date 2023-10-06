@@ -4,9 +4,9 @@ Code for "Language-oriented Communication with Semantic Coding and Knowledge Dis
 # Getting Started
 First download code repositories 
 * detectron2[1]
-..  https://github.com/facebookresearch/detectron2.git
+<br /> https://github.com/facebookresearch/detectron2.git
 * Image2Paragraph[2]
-..  https://github.com/showlab/Image2Paragraph.git
+<br /> https://github.com/showlab/Image2Paragraph.git
   
 # Settings for methods and importance   
 for main_flicker.py  
@@ -33,4 +33,4 @@ prompttune         | nouns                     |   Transmit nouns first, in cont
 
 # Reference
 [1] Y. Wu, A. Kirillov, F. Massa, W.-Y. Lo, and R. Girshick, “Detectron2,” https://github.com/facebookresearch/detectron2, 20
-..[2] R. Tang, L. Liu, A. Pandey, Z. Jiang, G. Yang, K. Kumar, P. Stenetorp, J. Lin, and F. Ture, “What the DAAM: Interpreting stable diffusion using cross attention,” in Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2023. [Online]. Available: https://aclanthology.org/2023.acl-lon
+<br />[2] R. Tang, L. Liu, A. Pandey, Z. Jiang, G. Yang, K. Kumar, P. Stenetorp, J. Lin, and F. Ture, “What the DAAM: Interpreting stable diffusion using cross attention,” in Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2023. [Online]. Available: https://aclanthology.org/2023.acl-lon

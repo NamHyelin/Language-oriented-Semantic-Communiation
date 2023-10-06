@@ -11,7 +11,7 @@ allBob             |                           |         "lowest LPIPS" Simulate
 allBob_clipTX      |                           |       When Bob has CLIP language base. Same as above |
 Alice              |                           |          Using language model from part of Alice's model to choose most influential or attentive word to transmit |
 random             |                           |       Randomly transmit words |
-bothAtt            |   contribute              |    Contribution is measured by the sum of word impact to the other words (sum row and col of a word_index in the attention matrix of language 
+bothAtt            |   contribute              |    Contribution is measured by the sum of word impact to the other words (sum row and col of a word_index in the attention matrix of language| 
                    |                           | model), transmit the word that Alice and Bob has the most similar value of contribution (smallest difference of Alice's sum and Bob's sum)  | 
                    |     combination           | Combination is measured by the value of word to another word (value of x_cor: word, y_cor: another word in the attention matrix of language | 
                    |                           | model), transmit the word that Alice and Bob has the most similar value of combination with last sent word. First transmitting word is      |

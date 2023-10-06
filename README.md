@@ -15,8 +15,8 @@ bothAtt            |   contribute              |    Contribution is measured by 
                    |                           | model), transmit the word that Alice and Bob has the most similar value of contribution (smallest difference of Alice's sum and Bob's sum)  |
 |:---------------- |:-------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------|  
 |                  |     combination           | Combination is measured by the value of word to another word (value of x_cor: word, y_cor: another word in the attention matrix of language | 
-|                  |                           | model), transmit the word that Alice and Bob has the most similar value of combination with last sent word. First transmitting word is selected|
-|                  |                           |through 'contribution' method |
+|                  |                           | model), transmit the word that Alice and Bob has the most similar value of combination with last sent word. First transmitting word is      |
+|                  |                           | selected through 'contribution' method                                                                                                      |
 |:---------------- |:-------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------|  
 bothcrossatt       |                           |       Compare Alice and Bob's contribution map (which part of image each word is describing / generating), transmit the word with similar map (smallest difference of two maps) |
 prompttune         | nouns                     |   Transmit nouns first, in context-sequence |

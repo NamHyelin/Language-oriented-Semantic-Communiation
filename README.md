@@ -11,7 +11,7 @@ Code for "Language-oriented Communication with Semantic Coding and Knowledge Dis
 
 
 | methods        | imporance        | Cool                                                                                        | 
-|:-------------- |:--------------- :|:--------------------------------------------------------------------------------------------|
+|:-------------- |:---------------:|:--------------------------------------------------------------------------------------------|
 partBob            |                           |        "most_attentive" Using language model from part of Bob's model to choose most influential or attentive word to transmit |
 partBob_clipTX     |                           |      When Bob has CLIP language base. Same as above |
 allBob             |                           |         "lowest LPIPS" Simulate with Bob's model and transmit the word with lowest LPIPS with the reference (desired) image |

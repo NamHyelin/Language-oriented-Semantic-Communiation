@@ -1,6 +1,9 @@
 # Language-oriented-Semantic-Communiation
 Code for "Language-oriented Communication with Semantic Coding and Knowledge Distillation for Text-to-Image Generation, Hyelin Nam, Jihong Park, Jinho Choi, Mehdi Bennis, Seong-Lyun Kim," submitted to ICASSP 2024.
 
+![image](https://github.com/user-attachments/assets/51797ffe-d367-4426-8828-669ebf7e6511)
+
+
 # Getting Started
 First download code repositories 
 * detectron2[1]
